@@ -1,0 +1,24 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal Webpack 4 boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzumi/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack 4",
+    "webpack boilerplate"
+  ],
+  "author": "Bogdan Morozyuk <bogdan7morozyuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzumi/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yuzumi/webpack-boilerplate#readme"
+}
