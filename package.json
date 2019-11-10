@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/yuzumi/webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/yuzumi/webpack-boilerplate#readme"
+  "homepage": "https://github.com/yuzumi/webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0",
+    "webpack-merge": "^4.2.2"
+  }
 }
